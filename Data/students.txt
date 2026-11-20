@@ -1,0 +1,6 @@
+S101,Alexander Wright,a.wright@university.edu,Computer Science,Year 1,3.85
+S102,Sophia Martinez,s.martinez@university.edu,Information Systems,Year 2,3.62
+S103,Liam Johnson,l.johnson@university.edu,Software Engineering,Year 3,3.40
+S104,Emma Davis,e.davis@university.edu,Artificial Intelligence,Year 4,3.95
+S105,Noah Wilson,n.wilson@university.edu,Computer Science,Year 2,2.88
+S106,Olivia Taylor,o.taylor@university.edu,Cybersecurity,Year 3,3.75
